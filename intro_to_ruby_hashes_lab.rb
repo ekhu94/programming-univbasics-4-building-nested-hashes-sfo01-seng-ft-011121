@@ -1,5 +1,5 @@
 def bash_hash
-  { railroads: {} }
+  return { railroads: {} }
 end
 
 def monopoly_with_second_tier
