@@ -1,4 +1,4 @@
-def bash_hash
+def base_hash
   hash = {
     railroads: {}
   }
