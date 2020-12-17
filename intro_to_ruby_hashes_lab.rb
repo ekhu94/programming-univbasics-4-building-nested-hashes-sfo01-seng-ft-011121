@@ -26,3 +26,8 @@ def monopoly_with_third_tier
   }
   hash
 end
+
+def monopoly_with_fourth_tier
+  hash = monopoly_with_third_tier
+end
+
